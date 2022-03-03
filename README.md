@@ -1,4 +1,4 @@
-## Hello World, I'm Lucas Renu
+## Hello World, I'm Renu
 
 <!--
 **renu/renu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
